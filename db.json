@@ -1,0 +1,34 @@
+{
+  "posts": [
+		{
+			"id": 1,
+			"title": "Cách nấu phở bò ",
+			"body": "Hướng dẫn chi tiết cách nấu phở bò .",
+			"base64Image": ""
+		},
+		{
+			"id": 2,
+			"title": "Du lịch Huế",
+			"body": "Kinh nghiệm du lịch Huế tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua.",
+			"base64Image": ""
+		},
+		{
+			"id": 3,
+			"title": "Hướng dẫn sử dụng Flutter",
+			"body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Flutter để phát triển ứng dụng di động.",
+			"base64Image": ""
+		}
+	],
+  "users": [
+		{
+			"username": "Phat",
+			"password": "phat123",
+			"fullname": "Vu Hoang Phat"
+		},
+		{
+			"username": "User1",
+			"password": "user123",
+			"fullname": "User1"
+		}
+  ]
+}
